@@ -4,6 +4,11 @@
 
 This project aims at unraveling the relationship between personality traits and drug consumption. First, the normalized data is coded into more apprehensible categories. Next we will explore the data to get an overview and a deeper understanding of it. After that we will discuss a selection of business cases we decided to develop. Since this project is for training purposes and there are already a lot of good analyses online, we opted for a more lighthearted approach.
 
+Things to find in this repository:
+PDF file with slidedeck for the presentation of our project
+IPYNB file with all coding done for this project
+XLS file with raw data
+
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wiki-grafik_peats-de_big_five_ENG.png/520px-Wiki-grafik_peats-de_big_five_ENG.png)
 
 ## Data cleaning
