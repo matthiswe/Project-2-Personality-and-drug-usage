@@ -18,8 +18,6 @@ XLS file with raw data
 
 Many of the data received were in type floats and already scaled. There were just a few rows with missing data, so they were removed.
 
-## Data exploration
-
 ## Feature engineering 
 
 The categorie names for frequency of drug usage were renamed. It was build a binary columns with "substance"_user for every substance. Therefor we set the usage of drug as 1, if the person used substances within the last year. 
